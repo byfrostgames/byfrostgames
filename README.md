@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do byfrost 😁
+## Bem-vindo(a) ao perfil do byfrost 
 
  <div>
    <a href="https://github.com/byfrostgames">
